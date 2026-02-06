@@ -31,3 +31,4 @@
   git rebase (name of branch)
   git pull  //pull data on github
   git push  //push the data to git hub
+  git clone (url)
