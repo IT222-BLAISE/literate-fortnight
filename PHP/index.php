@@ -8,6 +8,8 @@
 </head>
 <body>
 
+    <?php include 'navbar.php' ?>
+
     <h1><?php echo "<i>WELCOME</i>" ?></h1>
     <h1><?php echo $fullName; ?></h1>
     <h1><?php echo $course; ?></h1>
