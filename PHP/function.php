@@ -19,3 +19,13 @@ function sum($x,$y){
 
     return $message;
 }
+
+function checkPN($number){
+    if($number > 0){
+        $check = "The number $number is Positive";
+    }else {
+        $check = "The number $number is Negative";
+    }
+
+    return $check;
+}
